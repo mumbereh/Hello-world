@@ -25,7 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-  <h3><b>Hello microverse project</b></h3>
+  <h3><b>Linters Setup</b></h3>
 
 </div>
 
@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse  <a name="about-project"></a>
+# 📖 Linters Setup  <a name="about-project"></a>
 This repository is about  mastering all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 >
