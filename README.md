@@ -1,33 +1,4 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-  <h3><b>Linters Setup</b></h3>
-
-</div>
+  <h1><b>Hello microverse project</b></h1>
 
 # 📗 Table of Contents
 
@@ -35,15 +6,25 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Learning how to Setup HTML & CSS Linters <a name="about-project"></a>
+# 📖 Hello Microverse  <a name="about-project"></a>
 This repository is about  mastering all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 >
@@ -52,66 +33,134 @@ This repository is about  mastering all of the tools and best practices I learne
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
-  </ul>
-  <ul>
-    <li>CSS</li>
+    <li><a href="#">HTML</a></li>
+     <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-<p> This repository demonstrate how to set, apply and use linters in your project</p>
-<p> This repository demostrate how to apply  GitHub flow</p>
-<p>This repository demonstrate the the profesional way of documenting work</p>
+- [ ] **Home page**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!--
-Example command:
+## 🚀 Live Demo <a name="live-demo"></a>
 
 
-<!-- AUTHORS -->
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+
+
+If you want to clone this repository, cd into your desire folder and enter "git clone https://github.com/mumbereh/Hello-world.git into your terminal
+ 
+
+
+### Install
+
+
+The project is installed once you clone on your local machine
+
+### Usage
+
+Open index.html in your browser
+
+### Run tests
+
+
+
+To test your css file you can run the following command:
+
+npx stylelint "**/*.{css,scss}
+
+### Deployment
+
+To deploy this project transifer  the files in your local repository onto your sever.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mumbereh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mumbere-habert-33898a255/)
+👤 **Mumbere Habert**
+
+- GitHub: [mumbereh](https://github.com/mumbereh)
+- Twitter: [@mumberehabert1](https://twitter.com/mumberehabert1))
+- LinkedIn: [Mumbere Habert](https://www.linkedin.com/in/mumbere-habert-33898a255/))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+- [ ] **About us page**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- ACKNOWLEDGEMENTS -->
+
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+
+If you like this project don't forget to give in your honest feedback.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse for introducing me to the new technologies of full-stack software engineering. 
+
+I would like to thank Microverse review team for the guidance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](/LICENSE) licensed.
+This project is [MIT](/LICENSE.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
